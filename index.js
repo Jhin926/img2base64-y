@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('first util11')
+console.log(process.env);
