@@ -10,3 +10,5 @@ npm install img2base64-y -g
 ## Command Line
 
     img2base64 [filepath]
+## Example
+    img2base64 ./test.jpg
